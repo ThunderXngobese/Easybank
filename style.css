@@ -1,0 +1,173 @@
+ul li{
+    display: inline;
+    list-style: none;
+}
+
+header{
+   
+   
+
+}
+
+#as{
+    margin-left: 30px;
+}
+
+.f{
+    display: inline-flex;
+    padding-top: 10px;
+    padding: 10px;
+    
+    
+}
+
+#ff{
+    margin-left:200px;
+}
+
+#ff .wher{
+    margin-left: 280px;
+}
+
+.f{
+    
+}
+
+.hhhe{
+    padding-top: 10px;
+}
+
+.heh{
+    padding: 10px;
+    padding-top: 5px;
+    border-radius: 50px;
+    background-color: limegreen;
+    color: white;
+}
+
+.ew{
+  float: left;
+}
+
+.checkk{
+    background-color: #C0C0C0;
+}
+
+.e{
+    padding: 5px;
+    display: inline;
+    margin-bottom: 5px;
+}
+
+#qqq{
+    height: 80vh;
+}
+
+.where{
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+ul li a:hover{
+    color: #000;
+    text-decoration-line: none;
+}
+
+.wher{
+    float: right;
+    border-radius: 50px;
+    background-color: limegreen;
+    color: #fff;
+    padding: 5px;
+}
+
+ul li a{
+    color: #C0C0C0;
+}
+#q{
+    background-image: url(Img/bg-intro-desktop.svg);
+        height: 80vh;
+    width: 3%;
+}
+
+.link{
+    border-radius: 100px;
+    background-color: limegreen;
+    color: white;
+    list-style: none;
+    padding: 10px;
+}
+
+.awe, .ola, .w, .we{
+    width:250px;
+    float: left;
+    margin-left: 2%;
+    background-color: #C0C0C0;
+}
+
+.aa, .ab, .ac, .ad{
+    width: 250px;
+    float: left;
+    margin-left: 1%;
+    margin: 1%;
+   
+    
+}
+
+.pad{
+    width: 100%;
+}
+
+.ehe{
+    width: 100%;
+}
+
+.hhee{
+    padding-top:10px;
+    margin-right: 2px;
+    padding: 3px;
+}
+
+.kb{
+    margin-top:10px;
+    background: white;
+}
+
+.hee{
+     margin-right: 2px;
+    padding: 3px;
+}
+
+
+
+.pad{
+    background-color: #C0C0C0;
+}
+
+.ahah{
+    color: white;
+}
+
+.checl{
+    background-color: whitesmoke;
+    
+}
+
+.wook{
+     background-color: whitesmoke;
+    height: 100vh;
+}
+
+.hhe .he{
+    padding-top: 5px;
+    display: block;
+    padding:10px;
+}
+
+
+footer{
+    background-color:  #252b43;
+    color: white;
+padding: 10px;
+    object-position: bottom;
+}
